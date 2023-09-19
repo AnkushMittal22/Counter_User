@@ -1,0 +1,33 @@
+.timercontainer {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .timertext {
+    font-size: 24px;
+    color: #333;  
+  }
+  
+  .timerinput {
+    width: 60px;
+    margin: 0 10px;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #ccc;  
+    border-radius: 5px;  
+    font-size: 16px;  
+  }
+  
+  .timerbutton {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .timerbutton:hover {
+    background-color: #0056b3;
+  }
+  

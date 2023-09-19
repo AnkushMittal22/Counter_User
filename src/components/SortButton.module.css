@@ -1,0 +1,17 @@
+.sortbuttoncontainer {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .sortbutton {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .sortbutton:hover {
+    background-color: #0056b3;
+  }
+  

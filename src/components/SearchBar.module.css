@@ -1,0 +1,59 @@
+.searchcontainer {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .searchinput {
+    padding: 5px;
+    width: 200px;
+    margin-right: 10px;
+    border: 1px solid #ccc;  
+    border-radius: 5px;  
+    font-size: 16px;  
+  }
+  
+  .searchbutton {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .searchbutton:hover {
+    background-color: #0056b3;
+  }
+  
+  .pastsearchescontainer {
+    margin-top: 20px;
+  }
+  
+  .pastsearch {
+    list-style: none;
+    font-size: 18px;
+    margin: 5px 0;
+    padding: 5px;
+    background-color: #f4f4f4; 
+    border: 1px solid #ccc;  
+    border-radius: 5px;  
+  }
+  
+  .togglebutton {
+    padding: 12px 20px;
+    background-color: #ccc;
+    color: #333;
+    border: none;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: medium;
+  }
+  
+  .togglebutton:hover {
+    background-color: #999;
+    color: black;
+    font-size: large;
+  }
